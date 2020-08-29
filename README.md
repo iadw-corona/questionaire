@@ -1,2 +1,2 @@
 # questionaire
-Umfrage zur Seminarbeit (Thema: Corona-App-Erweiterung)
+Umfrage zur Seminararbeit (Thema: Corona-App-Erweiterung)
